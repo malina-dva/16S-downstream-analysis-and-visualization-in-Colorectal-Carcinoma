@@ -2212,110 +2212,110 @@ write.csv(vertex_data, "T1vertex_data_kostic_CPM_with_metadata_unweighted_undire
 
 ## create a function for building co-abundance network
 
-# get_interaction_network = function(norm_phyloseq_obj, group, graphml_file, vertex_data_file){
-#   
-#   subset_kostic_crc <- subset_samples(norm_phyloseq_obj, DIAGNOSIS == paste(group))
-#   # Define the prevalence threshold (e.g., taxa present in at least 50% of samples)
-#   prevalence_threshold <- 0.5
-#   
-#   # Filter taxa based on prevalence
-#   subset_kostic_crc <- filter_taxa(subset_kostic_crc , function(x) sum(x > 0) / length(x) >= prevalence_threshold, TRUE)
-#   
-#   ## create OTU input table with species or genus (when NA is present for species) names
-#   crc_CPM_OTU = data.frame(otu_table(subset_kostic_crc))
-# 
-#   crc_CPM_TAXA = data.frame((tax_table(subset_kostic_crc)))
-#  
-#   
-#   crc_CPM_META = data.frame(sample_data(subset_kostic_crc))
-#   
-#   # These are how they should be 
-#   crc_CPM_TAXA = crc_CPM_TAXA %>% dplyr::mutate(Species1= paste(rownames(crc_CPM_TAXA), Genus, Species, sep = "_"))
-#   crc_CPM_TAXA = crc_CPM_TAXA %>% dplyr::select(Species1)
-#   
-#   
-#   # Add row names as a column in both data frames
-#   crc_CPM_OTU <- rownames_to_column(crc_CPM_OTU, "RowNames")
-#   crc_CPM_TAXA <- rownames_to_column(crc_CPM_TAXA, "RowNames")
-#   
-#   # Merge the two data frames by the new column "RowNames"
-#   crc_CPM_OTU_S <- merge(crc_CPM_OTU, crc_CPM_TAXA, by.x = "RowNames", by.y = "RowNames")
-# 
-#   # Optionally, remove the redundant "RowNames" column after merging
-#   crc_CPM_OTU_S <- crc_CPM_OTU_S %>% dplyr::select(-RowNames)
-#   crc_CPM_OTU_S = column_to_rownames(crc_CPM_OTU_S, "Species1")
-#   
-#   rownames(crc_CPM_OTU_S) <- sub("X", "", rownames(crc_CPM_OTU_S))
-#   
-#   ### build unweighted graph 
-#   correlation_matrix <- cor(data.frame(t(crc_CPM_OTU_S)),method = "spearman")
-#  
-#   threshold <- 0.4
-#   
-#   # Create an adjacency matrix based on the correlation threshold
-#   adjacency_matrix <- ifelse(abs(correlation_matrix) > threshold, 1, 0)
-#  
-#   
-#   # Remove the diagonal values 
-#   diag(adjacency_matrix) <- 0
-#   
-#   
-#   graph <- graph_from_adjacency_matrix(adjacency_matrix , 
-#                                        mode = "undirected")
-#   
-#   
-#   #Cluster based on edge betweenness
-#   ceb = cluster_edge_betweenness(graph)
-#   
-#   #Extract community memberships from the clustering
-#   community_membership <- membership(ceb)
-#   
-#   # Count the number of nodes in each cluster
-#   cluster_sizes <- table(community_membership)
-#   
-#   # Add cluster memberships as a vertex attribute
-#   igraph::V(graph)$cluster_membership <- community_membership
-#   
-#   # Map cluster memberships to colors using a color palette function
-#   cluster_colors <- rainbow(max(community_membership))
-#   
-#   # Create a color variable based on cluster memberships
-#   V(graph)$color_variable <- cluster_colors[community_membership]
-#   
-#   # vetrex degree
-#   vertex_degrees <- igraph::degree(graph)
-#  
-#   # Add vertex degree as a vertex attribute
-#   igraph::V(graph)$degree <- vertex_degrees
-#   
-#   vertex.attr = list(
-#     cluster_membership = V(graph)$cluster_membership,
-#     name = V(graph)$name,
-#     degrees = V(graph)$degree,
-#     color = V(graph)$color_variable)
-#   
-#   # Specify the file name for saving the GraphML file
-#   graphml_file <- graphml_file
-#   
-#   # Write the igraph object to GraphML format with metadata
-#   write_graph(
-#     graph,
-#     graphml_file,
-#     format  = "graphml")
-#   
-#   # Combine vertex attributes into a data frame
-#   vertex_data <- data.frame(vertex.attr)
-#   
-#   write.csv(vertex_data, vertex_data_file, row.names = FALSE)
-#   
-# 
-# }
-# 
-# ## run the function to obtain the graph file and vertex metadata for the Healthy samples
-# 
-# get_interaction_network(
-#   norm_phyloseq_obj = kostic_crc_CPM,
-#   group = "Healthy",
-#   graphml_file = "H1graph_kostic_CPM_with_metadata_unweighted_undirected.graphml",
-#   vertex_data_file = "H1vertex_data_kostic_CPM_with_metadata_unweighted_undirected.csv")
+ get_interaction_network = function(norm_phyloseq_obj, group, graphml_file, vertex_data_file){
+   
+   subset_kostic_crc <- subset_samples(norm_phyloseq_obj, DIAGNOSIS == paste(group))
+   # Define the prevalence threshold (e.g., taxa present in at least 50% of samples)
+   prevalence_threshold <- 0.5
+   
+   # Filter taxa based on prevalence
+   subset_kostic_crc <- filter_taxa(subset_kostic_crc , function(x) sum(x > 0) / length(x) >= prevalence_threshold, TRUE)
+   
+   ## create OTU input table with species or genus (when NA is present for species) names
+   crc_CPM_OTU = data.frame(otu_table(subset_kostic_crc))
+ 
+   crc_CPM_TAXA = data.frame((tax_table(subset_kostic_crc)))
+  
+   
+   crc_CPM_META = data.frame(sample_data(subset_kostic_crc))
+   
+   # These are how they should be 
+   crc_CPM_TAXA = crc_CPM_TAXA %>% dplyr::mutate(Species1= paste(rownames(crc_CPM_TAXA), Genus, Species, sep = "_"))
+   crc_CPM_TAXA = crc_CPM_TAXA %>% dplyr::select(Species1)
+   
+   
+   # Add row names as a column in both data frames
+   crc_CPM_OTU <- rownames_to_column(crc_CPM_OTU, "RowNames")
+   crc_CPM_TAXA <- rownames_to_column(crc_CPM_TAXA, "RowNames")
+   
+   # Merge the two data frames by the new column "RowNames"
+   crc_CPM_OTU_S <- merge(crc_CPM_OTU, crc_CPM_TAXA, by.x = "RowNames", by.y = "RowNames")
+ 
+   # Optionally, remove the redundant "RowNames" column after merging
+   crc_CPM_OTU_S <- crc_CPM_OTU_S %>% dplyr::select(-RowNames)
+   crc_CPM_OTU_S = column_to_rownames(crc_CPM_OTU_S, "Species1")
+   
+   rownames(crc_CPM_OTU_S) <- sub("X", "", rownames(crc_CPM_OTU_S))
+   
+   ### build unweighted graph 
+   correlation_matrix <- cor(data.frame(t(crc_CPM_OTU_S)),method = "spearman")
+  
+   threshold <- 0.4
+   
+   # Create an adjacency matrix based on the correlation threshold
+   adjacency_matrix <- ifelse(abs(correlation_matrix) > threshold, 1, 0)
+  
+   
+   # Remove the diagonal values 
+   diag(adjacency_matrix) <- 0
+   
+   
+   graph <- graph_from_adjacency_matrix(adjacency_matrix , 
+                                        mode = "undirected")
+   
+   
+   #Cluster based on edge betweenness
+   ceb = cluster_edge_betweenness(graph)
+   
+   #Extract community memberships from the clustering
+   community_membership <- membership(ceb)
+   
+   # Count the number of nodes in each cluster
+   cluster_sizes <- table(community_membership)
+   
+   # Add cluster memberships as a vertex attribute
+   igraph::V(graph)$cluster_membership <- community_membership
+   
+   # Map cluster memberships to colors using a color palette function
+   cluster_colors <- rainbow(max(community_membership))
+   
+   # Create a color variable based on cluster memberships
+   V(graph)$color_variable <- cluster_colors[community_membership]
+   
+   # vetrex degree
+   vertex_degrees <- igraph::degree(graph)
+  
+   # Add vertex degree as a vertex attribute
+   igraph::V(graph)$degree <- vertex_degrees
+   
+   vertex.attr = list(
+     cluster_membership = V(graph)$cluster_membership,
+     name = V(graph)$name,
+     degrees = V(graph)$degree,
+     color = V(graph)$color_variable)
+   
+   # Specify the file name for saving the GraphML file
+   graphml_file <- graphml_file
+   
+   # Write the igraph object to GraphML format with metadata
+   write_graph(
+     graph,
+     graphml_file,
+     format  = "graphml")
+   
+   # Combine vertex attributes into a data frame
+   vertex_data <- data.frame(vertex.attr)
+   
+   write.csv(vertex_data, vertex_data_file, row.names = FALSE)
+   
+ 
+ }
+ 
+ ## run the function to obtain the graph file and vertex metadata for the Healthy samples
+ 
+ get_interaction_network(
+   norm_phyloseq_obj = kostic_crc_CPM,
+   group = "Healthy",
+   graphml_file = "H1graph_kostic_CPM_with_metadata_unweighted_undirected.graphml",
+   vertex_data_file = "H1vertex_data_kostic_CPM_with_metadata_unweighted_undirected.csv")
 ```
