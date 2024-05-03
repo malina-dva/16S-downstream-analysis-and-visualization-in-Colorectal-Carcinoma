@@ -2,6 +2,7 @@ Tutorial for comparing microbial communities between groups (alpha and beta dive
 
 Malina Doynova
 5/02/2024
+html file in rpubs: https://rpubs.com/malina_19/1181149
 
 # 1. Install and/or load the required packages
 
