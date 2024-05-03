@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_cluster_membership" for="node" attr.name="cluster_membership" attr.type="double"/>
+  <key id="v_color_variable" for="node" attr.name="color_variable" attr.type="string"/>
+  <key id="v_degree" for="node" attr.name="degree" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">X127309_Bacteroides_NA</data>
+      <data key="v_cluster_membership">1</data>
+      <data key="v_color_variable">#FF0000</data>
+      <data key="v_degree">3</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">X13825_Dialister_Dialister.pneumosintes</data>
+      <data key="v_cluster_membership">2</data>
+      <data key="v_color_variable">#FF4600</data>
+      <data key="v_degree">4</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">X14227_Peptostreptococcus_Peptostreptococcus.anaerobius</data>
+      <data key="v_cluster_membership">2</data>
+      <data key="v_color_variable">#FF4600</data>
+      <data key="v_degree">4</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">X145149_Veillonella_NA</data>
+      <data key="v_cluster_membership">3</data>
+      <data key="v_color_variable">#FF8B00</data>
+      <data key="v_degree">0</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">X15054_Granulicatella_Granulicatella.elegans</data>
+      <data key="v_cluster_membership">4</data>
+      <data key="v_color_variable">#FFD100</data>
+      <data key="v_degree">0</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">X157566_Alistipes_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">6</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">X158660_Bacteroides_NA</data>
+      <data key="v_cluster_membership">6</data>
+      <data key="v_color_variable">#A2FF00</data>
+      <data key="v_degree">3</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">X16076_Ruminococcus_Ruminococcus.bromii</data>
+      <data key="v_cluster_membership">6</data>
+      <data key="v_color_variable">#A2FF00</data>
+      <data key="v_degree">2</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">X174809_Bacteroides_NA</data>
+      <data key="v_cluster_membership">7</data>
+      <data key="v_color_variable">#5DFF00</data>
+      <data key="v_degree">0</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">X175685_NA_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">8</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">X177005_Blautia_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">7</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">X180285_Faecalibacterium_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">10</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">X181056_Faecalibacterium_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">13</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">X181882_Eubacterium_NA</data>
+      <data key="v_cluster_membership">8</data>
+      <data key="v_color_variable">#17FF00</data>
+      <data key="v_degree">2</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">X182190_Clostridium_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">4</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">X182512_Coprococcus_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">6</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">X182539_Eubacterium_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">14</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">X182994_Roseburia_Eubacterium.rectale</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">9</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">X184729_Ruminococcus_Ruminococcus.gnavus</data>
+      <data key="v_cluster_membership">9</data>
+      <data key="v_color_variable">#00FF2E</data>
+      <data key="v_degree">1</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">X186029_Collinsella_Collinsella.aerofaciens</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">3</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">X192071_Ruminococcus_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">15</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">X194648_NA_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">15</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">X194870_Eubacterium_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">14</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">X195572_Clostridium_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">7</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">X195926_NA_NA</data>
+      <data key="v_cluster_membership">10</data>
+      <data key="v_color_variable">#00FF74</data>
+      <data key="v_degree">0</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">X198426_NA_NA</data>
+      <data key="v_cluster_membership">11</data>
+      <data key="v_color_variable">#00FFB9</data>
+      <data key="v_degree">3</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">X198941_NA_NA</data>
+      <data key="v_cluster_membership">12</data>
+      <data key="v_color_variable">#00FFFF</data>
+      <data key="v_degree">2</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">X199293_Faecalibacterium_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">7</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">X203590_NA_NA</data>
+      <data key="v_cluster_membership">1</data>
+      <data key="v_color_variable">#FF0000</data>
+      <data key="v_degree">4</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">X205618_Clostridium_NA</data>
+      <data key="v_cluster_membership">13</data>
+      <data key="v_color_variable">#00B9FF</data>
+      <data key="v_degree">4</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">X211903_Clostridium_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">5</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">X212503_NA_NA</data>
+      <data key="v_cluster_membership">14</data>
+      <data key="v_color_variable">#0074FF</data>
+      <data key="v_degree">1</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">X237324_Clostridium_NA</data>
+      <data key="v_cluster_membership">15</data>
+      <data key="v_color_variable">#002EFF</data>
+      <data key="v_degree">1</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">X248140_Bacteroides_Bacteroides.caccae</data>
+      <data key="v_cluster_membership">6</data>
+      <data key="v_color_variable">#A2FF00</data>
+      <data key="v_degree">3</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">X25165_Bacteroides_NA</data>
+      <data key="v_cluster_membership">16</data>
+      <data key="v_color_variable">#1700FF</data>
+      <data key="v_degree">0</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">X252508_Parabacteroides_Parabacteroides.distasonis</data>
+      <data key="v_cluster_membership">6</data>
+      <data key="v_color_variable">#A2FF00</data>
+      <data key="v_degree">1</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">X261912_Dorea_Dorea.formicigenerans</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">21</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">X277489_Coprococcus_Coprococcus.catus</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">5</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">X303877_Parabacteroides_Parabacteroides.distasonis</data>
+      <data key="v_cluster_membership">17</data>
+      <data key="v_color_variable">#5D00FF</data>
+      <data key="v_degree">0</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">X305760_Escherichia_NA</data>
+      <data key="v_cluster_membership">18</data>
+      <data key="v_color_variable">#A200FF</data>
+      <data key="v_degree">3</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">X307080_NA_NA</data>
+      <data key="v_cluster_membership">18</data>
+      <data key="v_color_variable">#A200FF</data>
+      <data key="v_degree">3</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">X307981_Klebsiella_NA</data>
+      <data key="v_cluster_membership">18</data>
+      <data key="v_color_variable">#A200FF</data>
+      <data key="v_degree">3</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">X318760_NA_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">10</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">X320768_Oscillospira_NA</data>
+      <data key="v_cluster_membership">6</data>
+      <data key="v_color_variable">#A2FF00</data>
+      <data key="v_degree">2</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">X321740_Oscillospira_NA</data>
+      <data key="v_cluster_membership">8</data>
+      <data key="v_color_variable">#17FF00</data>
+      <data key="v_degree">4</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">X322235_Bacteroides_Bacteroides.uniformis</data>
+      <data key="v_cluster_membership">6</data>
+      <data key="v_color_variable">#A2FF00</data>
+      <data key="v_degree">2</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">X345104_Bacteroides_NA</data>
+      <data key="v_cluster_membership">6</data>
+      <data key="v_color_variable">#A2FF00</data>
+      <data key="v_degree">2</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">X345319_NA_NA</data>
+      <data key="v_cluster_membership">13</data>
+      <data key="v_color_variable">#00B9FF</data>
+      <data key="v_degree">5</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">X347862_Odoribacter_NA</data>
+      <data key="v_cluster_membership">8</data>
+      <data key="v_color_variable">#17FF00</data>
+      <data key="v_degree">2</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">X349216_Bacteroides_Bacteroides.uniformis</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">5</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">X352304_NA_NA</data>
+      <data key="v_cluster_membership">11</data>
+      <data key="v_color_variable">#00FFB9</data>
+      <data key="v_degree">2</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">X374052_Fusobacterium_NA</data>
+      <data key="v_cluster_membership">2</data>
+      <data key="v_color_variable">#FF4600</data>
+      <data key="v_degree">1</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">X469709_Bacteroides_Bacteroides.dorei</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">8</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">X469991_Clostridium_Clostridium.bolteae</data>
+      <data key="v_cluster_membership">15</data>
+      <data key="v_color_variable">#002EFF</data>
+      <data key="v_degree">2</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">X470139_Clostridium_Clostridium.ramosum</data>
+      <data key="v_cluster_membership">19</data>
+      <data key="v_color_variable">#E800FF</data>
+      <data key="v_degree">0</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">X470239_Dialister_Dialister.invisus</data>
+      <data key="v_cluster_membership">2</data>
+      <data key="v_color_variable">#FF4600</data>
+      <data key="v_degree">1</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">X470429_Fusobacterium_Fusobacterium.necrophorum</data>
+      <data key="v_cluster_membership">20</data>
+      <data key="v_color_variable">#FF00D1</data>
+      <data key="v_degree">0</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">X470462_Gemella_Gemella.haemolysans</data>
+      <data key="v_cluster_membership">2</data>
+      <data key="v_color_variable">#FF4600</data>
+      <data key="v_degree">4</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">X470805_NA_Parvimonas.micra</data>
+      <data key="v_cluster_membership">2</data>
+      <data key="v_color_variable">#FF4600</data>
+      <data key="v_degree">6</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">X470973_Ruminococcus_Ruminococcus.torques</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">7</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">X49274_Clostridium_NA</data>
+      <data key="v_cluster_membership">21</data>
+      <data key="v_color_variable">#FF008B</data>
+      <data key="v_degree">0</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">X500281_NA_NA</data>
+      <data key="v_cluster_membership">2</data>
+      <data key="v_color_variable">#FF4600</data>
+      <data key="v_degree">7</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">X539107_Erwinia_Pantoea.dispersa</data>
+      <data key="v_cluster_membership">18</data>
+      <data key="v_color_variable">#A200FF</data>
+      <data key="v_degree">3</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">X541301_Parabacteroides_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">3</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">X557450_NA_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">13</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">X561636_Streptococcus_NA</data>
+      <data key="v_cluster_membership">22</data>
+      <data key="v_color_variable">#FF0046</data>
+      <data key="v_degree">0</data>
+    </node>
+    <node id="n66">
+      <data key="v_name">X64396_Fusobacterium_NA</data>
+      <data key="v_cluster_membership">2</data>
+      <data key="v_color_variable">#FF4600</data>
+      <data key="v_degree">3</data>
+    </node>
+    <node id="n67">
+      <data key="v_name">X72853_Faecalibacterium_NA</data>
+      <data key="v_cluster_membership">5</data>
+      <data key="v_color_variable">#E8FF00</data>
+      <data key="v_degree">11</data>
+    </node>
+    <node id="n68">
+      <data key="v_name">X89770_Peptostreptococcus_Peptostreptococcus.anaerobius</data>
+      <data key="v_cluster_membership">2</data>
+      <data key="v_color_variable">#FF4600</data>
+      <data key="v_degree">4</data>
+    </node>
+    <node id="n69">
+      <data key="v_name">X90431_Clostridium_NA</data>
+      <data key="v_cluster_membership">15</data>
+      <data key="v_color_variable">#002EFF</data>
+      <data key="v_degree">1</data>
+    </node>
+    <edge source="n0" target="n28">
+    </edge>
+    <edge source="n0" target="n43">
+    </edge>
+    <edge source="n0" target="n59">
+    </edge>
+    <edge source="n1" target="n55">
+    </edge>
+    <edge source="n1" target="n58">
+    </edge>
+    <edge source="n1" target="n61">
+    </edge>
+    <edge source="n1" target="n68">
+    </edge>
+    <edge source="n2" target="n57">
+    </edge>
+    <edge source="n2" target="n58">
+    </edge>
+    <edge source="n2" target="n61">
+    </edge>
+    <edge source="n2" target="n68">
+    </edge>
+    <edge source="n5" target="n11">
+    </edge>
+    <edge source="n5" target="n21">
+    </edge>
+    <edge source="n5" target="n48">
+    </edge>
+    <edge source="n5" target="n49">
+    </edge>
+    <edge source="n5" target="n52">
+    </edge>
+    <edge source="n5" target="n63">
+    </edge>
+    <edge source="n6" target="n33">
+    </edge>
+    <edge source="n6" target="n45">
+    </edge>
+    <edge source="n6" target="n46">
+    </edge>
+    <edge source="n7" target="n43">
+    </edge>
+    <edge source="n7" target="n45">
+    </edge>
+    <edge source="n9" target="n16">
+    </edge>
+    <edge source="n9" target="n20">
+    </edge>
+    <edge source="n9" target="n21">
+    </edge>
+    <edge source="n9" target="n22">
+    </edge>
+    <edge source="n9" target="n23">
+    </edge>
+    <edge source="n9" target="n36">
+    </edge>
+    <edge source="n9" target="n42">
+    </edge>
+    <edge source="n9" target="n64">
+    </edge>
+    <edge source="n10" target="n12">
+    </edge>
+    <edge source="n10" target="n15">
+    </edge>
+    <edge source="n10" target="n16">
+    </edge>
+    <edge source="n10" target="n20">
+    </edge>
+    <edge source="n10" target="n22">
+    </edge>
+    <edge source="n10" target="n29">
+    </edge>
+    <edge source="n10" target="n64">
+    </edge>
+    <edge source="n11" target="n12">
+    </edge>
+    <edge source="n11" target="n16">
+    </edge>
+    <edge source="n11" target="n17">
+    </edge>
+    <edge source="n11" target="n20">
+    </edge>
+    <edge source="n11" target="n21">
+    </edge>
+    <edge source="n11" target="n27">
+    </edge>
+    <edge source="n11" target="n36">
+    </edge>
+    <edge source="n11" target="n52">
+    </edge>
+    <edge source="n11" target="n67">
+    </edge>
+    <edge source="n12" target="n16">
+    </edge>
+    <edge source="n12" target="n20">
+    </edge>
+    <edge source="n12" target="n22">
+    </edge>
+    <edge source="n12" target="n27">
+    </edge>
+    <edge source="n12" target="n29">
+    </edge>
+    <edge source="n12" target="n36">
+    </edge>
+    <edge source="n12" target="n37">
+    </edge>
+    <edge source="n12" target="n42">
+    </edge>
+    <edge source="n12" target="n47">
+    </edge>
+    <edge source="n12" target="n52">
+    </edge>
+    <edge source="n12" target="n67">
+    </edge>
+    <edge source="n13" target="n44">
+    </edge>
+    <edge source="n13" target="n67">
+    </edge>
+    <edge source="n14" target="n16">
+    </edge>
+    <edge source="n14" target="n17">
+    </edge>
+    <edge source="n14" target="n22">
+    </edge>
+    <edge source="n14" target="n36">
+    </edge>
+    <edge source="n15" target="n17">
+    </edge>
+    <edge source="n15" target="n20">
+    </edge>
+    <edge source="n15" target="n21">
+    </edge>
+    <edge source="n15" target="n22">
+    </edge>
+    <edge source="n15" target="n64">
+    </edge>
+    <edge source="n16" target="n17">
+    </edge>
+    <edge source="n16" target="n20">
+    </edge>
+    <edge source="n16" target="n22">
+    </edge>
+    <edge source="n16" target="n26">
+    </edge>
+    <edge source="n16" target="n27">
+    </edge>
+    <edge source="n16" target="n36">
+    </edge>
+    <edge source="n16" target="n42">
+    </edge>
+    <edge source="n16" target="n64">
+    </edge>
+    <edge source="n16" target="n67">
+    </edge>
+    <edge source="n17" target="n21">
+    </edge>
+    <edge source="n17" target="n25">
+    </edge>
+    <edge source="n17" target="n27">
+    </edge>
+    <edge source="n17" target="n50">
+    </edge>
+    <edge source="n17" target="n64">
+    </edge>
+    <edge source="n18" target="n52">
+    </edge>
+    <edge source="n19" target="n22">
+    </edge>
+    <edge source="n19" target="n36">
+    </edge>
+    <edge source="n19" target="n67">
+    </edge>
+    <edge source="n20" target="n21">
+    </edge>
+    <edge source="n20" target="n22">
+    </edge>
+    <edge source="n20" target="n23">
+    </edge>
+    <edge source="n20" target="n29">
+    </edge>
+    <edge source="n20" target="n30">
+    </edge>
+    <edge source="n20" target="n36">
+    </edge>
+    <edge source="n20" target="n37">
+    </edge>
+    <edge source="n20" target="n64">
+    </edge>
+    <edge source="n20" target="n67">
+    </edge>
+    <edge source="n21" target="n22">
+    </edge>
+    <edge source="n21" target="n30">
+    </edge>
+    <edge source="n21" target="n36">
+    </edge>
+    <edge source="n21" target="n42">
+    </edge>
+    <edge source="n21" target="n49">
+    </edge>
+    <edge source="n21" target="n52">
+    </edge>
+    <edge source="n21" target="n59">
+    </edge>
+    <edge source="n21" target="n64">
+    </edge>
+    <edge source="n21" target="n67">
+    </edge>
+    <edge source="n22" target="n23">
+    </edge>
+    <edge source="n22" target="n36">
+    </edge>
+    <edge source="n22" target="n42">
+    </edge>
+    <edge source="n22" target="n59">
+    </edge>
+    <edge source="n22" target="n64">
+    </edge>
+    <edge source="n23" target="n31">
+    </edge>
+    <edge source="n23" target="n36">
+    </edge>
+    <edge source="n23" target="n37">
+    </edge>
+    <edge source="n23" target="n64">
+    </edge>
+    <edge source="n25" target="n47">
+    </edge>
+    <edge source="n25" target="n50">
+    </edge>
+    <edge source="n26" target="n36">
+    </edge>
+    <edge source="n27" target="n28">
+    </edge>
+    <edge source="n27" target="n36">
+    </edge>
+    <edge source="n27" target="n64">
+    </edge>
+    <edge source="n28" target="n36">
+    </edge>
+    <edge source="n28" target="n47">
+    </edge>
+    <edge source="n29" target="n47">
+    </edge>
+    <edge source="n30" target="n36">
+    </edge>
+    <edge source="n30" target="n42">
+    </edge>
+    <edge source="n30" target="n64">
+    </edge>
+    <edge source="n32" target="n53">
+    </edge>
+    <edge source="n33" target="n35">
+    </edge>
+    <edge source="n33" target="n46">
+    </edge>
+    <edge source="n36" target="n37">
+    </edge>
+    <edge source="n36" target="n42">
+    </edge>
+    <edge source="n36" target="n44">
+    </edge>
+    <edge source="n36" target="n52">
+    </edge>
+    <edge source="n36" target="n59">
+    </edge>
+    <edge source="n36" target="n64">
+    </edge>
+    <edge source="n36" target="n67">
+    </edge>
+    <edge source="n37" target="n67">
+    </edge>
+    <edge source="n39" target="n40">
+    </edge>
+    <edge source="n39" target="n41">
+    </edge>
+    <edge source="n39" target="n62">
+    </edge>
+    <edge source="n40" target="n41">
+    </edge>
+    <edge source="n40" target="n62">
+    </edge>
+    <edge source="n41" target="n62">
+    </edge>
+    <edge source="n42" target="n49">
+    </edge>
+    <edge source="n42" target="n59">
+    </edge>
+    <edge source="n42" target="n67">
+    </edge>
+    <edge source="n44" target="n48">
+    </edge>
+    <edge source="n44" target="n67">
+    </edge>
+    <edge source="n47" target="n49">
+    </edge>
+    <edge source="n49" target="n52">
+    </edge>
+    <edge source="n51" target="n61">
+    </edge>
+    <edge source="n52" target="n63">
+    </edge>
+    <edge source="n53" target="n69">
+    </edge>
+    <edge source="n57" target="n58">
+    </edge>
+    <edge source="n57" target="n61">
+    </edge>
+    <edge source="n57" target="n66">
+    </edge>
+    <edge source="n58" target="n61">
+    </edge>
+    <edge source="n58" target="n66">
+    </edge>
+    <edge source="n58" target="n68">
+    </edge>
+    <edge source="n59" target="n63">
+    </edge>
+    <edge source="n59" target="n64">
+    </edge>
+    <edge source="n61" target="n66">
+    </edge>
+    <edge source="n61" target="n68">
+    </edge>
+  </graph>
+</graphml>

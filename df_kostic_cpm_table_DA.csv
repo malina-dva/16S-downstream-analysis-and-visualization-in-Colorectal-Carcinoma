@@ -1,0 +1,159 @@
+"","feature","enrich_group","ef_lda","pvalue","padj"
+"marker1","k__Bacteria|p__Firmicutes|c__Clostridia","Healthy",4.93408902004353,2.57754146700436e-06,2.57754146700436e-06
+"marker2","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales","Healthy",4.93408902004353,2.57754146700436e-06,2.57754146700436e-06
+"marker3","k__Bacteria|p__Firmicutes","Healthy",4.89803923059116,0.000142503182381403,0.000142503182381403
+"marker4","k__Bacteria|p__Bacteroidetes|c__Bacteroidia","Healthy",4.80207894951909,0.0109384123311826,0.0109384123311826
+"marker5","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales","Healthy",4.80207894951909,0.0109384123311826,0.0109384123311826
+"marker6","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae","Healthy",4.79540564782092,0.000370605941580923,0.000370605941580923
+"marker7","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroidaceae_Bacteroides","Healthy",4.79540564782092,0.000370605941580923,0.000370605941580923
+"marker8","k__Bacteria|p__Bacteroidetes","Healthy",4.76624734113985,0.0181428820659963,0.0181428820659963
+"marker9","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae","Healthy",4.75053409050543,6.52965921854845e-07,6.52965921854845e-07
+"marker10","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium","Healthy",4.55628610284495,1.47209148289539e-06,1.47209148289539e-06
+"marker11","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium|s__Faecalibacterium_s__","Healthy",4.5550579181838,1.60756860856833e-06,1.60756860856833e-06
+"marker12","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae","Healthy",4.51205144231962,0.000548285799072625,0.000548285799072625
+"marker13","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroidaceae_Bacteroides|s__Bacteroidaceae_Bacteroides_s__","Healthy",4.43095644525574,0.00161226846126484,0.00161226846126484
+"marker14","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroidaceae_Bacteroides|s__Bacteroides dorei","Healthy",4.28370935427075,0.0189702539516135,0.0189702539516135
+"marker15","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae","Healthy",4.11596427800224,0.00382236214858544,0.00382236214858544
+"marker16","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae_g__","Healthy",4.05743663504974,5.72294452325023e-05,5.72294452325023e-05
+"marker17","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae_g__|s__Ruminococcaceae_g___s__","Healthy",4.05743663504974,5.72294452325023e-05,5.72294452325023e-05
+"marker18","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnospiraceae_g__","Healthy",4.01531994437706,0.00341499593933904,0.00341499593933904
+"marker19","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnospiraceae_g__|s__Lachnospiraceae_g___s__","Healthy",4.01531994437706,0.00341499593933904,0.00341499593933904
+"marker20","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae|g__Parabacteroides","Healthy",3.99350618906964,0.000768915826389794,0.000768915826389794
+"marker21","k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales","Healthy",3.96238994542624,0.000910412107606052,0.000910412107606052
+"marker22","k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Alcaligenaceae","Healthy",3.96208560307481,0.000195651539385839,0.000195651539385839
+"marker23","k__Bacteria|p__Proteobacteria|c__Betaproteobacteria","Healthy",3.96097988011082,0.00160883999878058,0.00160883999878058
+"marker24","k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Alcaligenaceae|g__Sutterella","Healthy",3.93500881049064,0.00210752235240471,0.00210752235240471
+"marker25","k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Alcaligenaceae|g__Sutterella|s__Sutterella_s__","Healthy",3.93402417224934,0.00204430686110716,0.00204430686110716
+"marker26","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroidaceae_Bacteroides|s__Bacteroides uniformis","Healthy",3.89334295290841,0.00372993008224245,0.00372993008224245
+"marker27","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnospiraceae_Ruminococcus","Healthy",3.88505370892675,0.0140211404198814,0.0140211404198814
+"marker28","k__Bacteria|p__Tenericutes|c__Erysipelotrichi","Healthy",3.76776739771504,0.0154610794367161,0.0154610794367161
+"marker29","k__Bacteria|p__Tenericutes|c__Erysipelotrichi|o__Erysipelotrichi_Erysipelotrichales","Healthy",3.76776739771504,0.0154610794367161,0.0154610794367161
+"marker30","k__Bacteria|p__Tenericutes|c__Erysipelotrichi|o__Erysipelotrichi_Erysipelotrichales|f__Erysipelotrichi_Erysipelotrichales_Erysipelotrichaceae","Healthy",3.76776739771504,0.0154610794367161,0.0154610794367161
+"marker31","k__Bacteria|p__Tenericutes","Healthy",3.7512123714229,0.0197073894477164,0.0197073894477164
+"marker32","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Rikenellaceae","Healthy",3.73106880330173,0.00164397561786844,0.00164397561786844
+"marker33","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiales_f__","Healthy",3.7074734476591,0.000533344018697472,0.000533344018697472
+"marker34","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiales_f__|g__Clostridiales_f___g__","Healthy",3.7074734476591,0.000533344018697472,0.000533344018697472
+"marker35","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiales_f__|g__Clostridiales_f___g__|s__Clostridiales_f___g___s__","Healthy",3.7074734476591,0.000533344018697472,0.000533344018697472
+"marker36","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Rikenellaceae|g__Alistipes","Healthy",3.70596062836035,0.00200656822538253,0.00200656822538253
+"marker37","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Rikenellaceae|g__Alistipes|s__Alistipes_s__","Healthy",3.70596062836035,0.00200656822538253,0.00200656822538253
+"marker38","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae|g__Parabacteroides|s__Parabacteroides distasonis","Healthy",3.63424338806244,0.015160045624977,0.015160045624977
+"marker39","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnospiraceae_Eubacterium","Healthy",3.6175118532396,0.00471044188428174,0.00471044188428174
+"marker40","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnospiraceae_Eubacterium|s__Lachnospiraceae_Eubacterium_s__","Healthy",3.6175118532396,0.00471044188428174,0.00471044188428174
+"marker41","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnospiraceae_Ruminococcus|s__Ruminococcus gnavus","Healthy",3.58023183796683,0.0078181983982257,0.0078181983982257
+"marker42","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Oscillospira","Healthy",3.52661536186098,0.00879975977481615,0.00879975977481615
+"marker43","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Oscillospira|s__Oscillospira_s__","Healthy",3.52661536186098,0.00879975977481615,0.00879975977481615
+"marker44","k__Bacteria|p__Tenericutes|c__Erysipelotrichi|o__Erysipelotrichi_Erysipelotrichales|f__Erysipelotrichi_Erysipelotrichales_Erysipelotrichaceae|g__Erysipelotrichi_Erysipelotrichales_Erysipelotrichaceae_Clostridium","Healthy",3.48863670969912,0.0191102758401907,0.0191102758401907
+"marker45","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Coriobacteriales","Healthy",3.45126505396873,1.82680646791575e-06,1.82680646791575e-06
+"marker46","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Coriobacteriales|f__Coriobacteriaceae","Healthy",3.43931753036134,2.78815214444642e-06,2.78815214444642e-06
+"marker47","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Coprococcus","Healthy",3.42683832588008,0.00941991403057744,0.00941991403057744
+"marker48","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae|g__Odoribacter","Healthy",3.42546380244619,0.039013559315871,0.039013559315871
+"marker49","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae|g__Odoribacter|s__Odoribacter_s__","Healthy",3.42546380244619,0.039013559315871,0.039013559315871
+"marker50","k__Bacteria|p__Actinobacteria","Healthy",3.42538741886546,0.000421106519641849,0.000421106519641849
+"marker51","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)","Healthy",3.42538741886546,0.000421106519641849,0.000421106519641849
+"marker52","k__Bacteria|p__Tenericutes|c__Erysipelotrichi|o__Erysipelotrichi_Erysipelotrichales|f__Erysipelotrichi_Erysipelotrichales_Erysipelotrichaceae|g__Erysipelotrichi_Erysipelotrichales_Erysipelotrichaceae_Clostridium|s__Erysipelotrichi_Erysipelotrichales_Erysipelotrichaceae_Clostridium_s__","Healthy",3.39632470031499,0.00379298378929627,0.00379298378929627
+"marker53","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia","Healthy",3.38425644173631,0.00143299010321556,0.00143299010321556
+"marker54","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnospiraceae_Ruminococcus|s__Lachnospiraceae_Ruminococcus_s__","Healthy",3.35527896393261,0.0173872713269195,0.0173872713269195
+"marker55","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Coprococcus|s__Coprococcus_s__","Healthy",3.34112342030841,0.0187022408945207,0.0187022408945207
+"marker56","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae_Eubacterium","Healthy",3.34032480336964,0.020521001821658,0.020521001821658
+"marker57","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae_Eubacterium|s__Ruminococcaceae_Eubacterium_s__","Healthy",3.34032480336964,0.020521001821658,0.020521001821658
+"marker58","k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Alphaproteobacteria_o__|f__Alphaproteobacteria_o___f__|g__Alphaproteobacteria_o___f___g__|s__Alphaproteobacteria_o___f___g___s__","Healthy",3.26213170590271,0.0469753862210578,0.0469753862210578
+"marker59","k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Alphaproteobacteria_o__|f__Alphaproteobacteria_o___f__|g__Alphaproteobacteria_o___f___g__","Healthy",3.261740791203,0.0469753862210578,0.0469753862210578
+"marker60","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_s__","Healthy",3.25862279700244,0.00703542514393901,0.00703542514393901
+"marker61","k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Alphaproteobacteria_o__|f__Alphaproteobacteria_o___f__","Healthy",3.25824789077225,0.0469753862210578,0.0469753862210578
+"marker62","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae|g__Porphyromonadaceae_g__","Healthy",3.25786470407794,0.0229324542873943,0.0229324542873943
+"marker63","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Porphyromonadaceae|g__Porphyromonadaceae_g__|s__Porphyromonadaceae_g___s__","Healthy",3.25786470407794,0.0229324542873943,0.0229324542873943
+"marker64","k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Alphaproteobacteria_o__","Healthy",3.25574393922363,0.0469753862210578,0.0469753862210578
+"marker65","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Coriobacteriales|f__Coriobacteriaceae|g__Collinsella|s__Collinsella aerofaciens","Healthy",3.24659392860529,1.93370582986888e-05,1.93370582986888e-05
+"marker66","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae|g__Phascolarctobacterium|s__Phascolarctobacterium_s__","Healthy",3.23530847671278,0.012732705621076,0.012732705621076
+"marker67","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae|g__Phascolarctobacterium","Healthy",3.23248898276625,0.012732705621076,0.012732705621076
+"marker68","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Coriobacteriales|f__Coriobacteriaceae|g__Collinsella","Healthy",3.22151955619785,3.522754327283e-05,3.522754327283e-05
+"marker69","k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus hyointestinalis","Healthy",3.21946948364172,0.0279817151574107,0.0279817151574107
+"marker70","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Dorea","Healthy",3.19604484405126,0.0114723196540867,0.0114723196540867
+"marker71","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Dorea|s__Dorea formicigenerans","Healthy",3.19604484405126,0.0114723196540867,0.0114723196540867
+"marker72","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotellaceae_g__|s__Prevotellaceae_g___s__","Healthy",3.11482425501756,0.0405639715447495,0.0405639715447495
+"marker73","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotellaceae_g__","Healthy",3.11053743653259,0.0405639715447495,0.0405639715447495
+"marker74","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnospira","Healthy",3.08095137748186,0.00306493014437619,0.00306493014437619
+"marker75","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnospira|s__Lachnospira_s__","Healthy",3.08095137748186,0.00306493014437619,0.00306493014437619
+"marker76","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae_Clostridium","Healthy",3.051978736911,0.00180408771924324,0.00180408771924324
+"marker77","k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus thermophilus","Healthy",2.96975747537645,0.0422716811789839,0.0422716811789839
+"marker78","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridiaceae_Clostridium|s__Clostridiaceae_Clostridium_s__","Healthy",2.96482798742033,0.0143838146579042,0.0143838146579042
+"marker79","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae_Ruminococcus|s__Ruminococcaceae_Ruminococcus_s__","Healthy",2.94414523621111,0.0405275141624006,0.0405275141624006
+"marker80","k__Bacteria|p__Verrucomicrobia","Healthy",2.93580157188032,0.0286385112727044,0.0286385112727044
+"marker81","k__Bacteria|p__Verrucomicrobia|c__Verrucomicrobiae|o__Verrucomicrobiales|f__Verrucomicrobiaceae","Healthy",2.93553464744076,0.0286385112727044,0.0286385112727044
+"marker82","k__Bacteria|p__Verrucomicrobia|c__Verrucomicrobiae|o__Verrucomicrobiales","Healthy",2.93477599129735,0.0286385112727044,0.0286385112727044
+"marker83","k__Bacteria|p__Verrucomicrobia|c__Verrucomicrobiae|o__Verrucomicrobiales|f__Verrucomicrobiaceae|g__Akkermansia|s__Akkermansia muciniphila","Healthy",2.9346714625711,0.0286385112727044,0.0286385112727044
+"marker84","k__Bacteria|p__Verrucomicrobia|c__Verrucomicrobiae|o__Verrucomicrobiales|f__Verrucomicrobiaceae|g__Akkermansia","Healthy",2.93461615552105,0.0286385112727044,0.0286385112727044
+"marker85","k__Bacteria|p__Verrucomicrobia|c__Verrucomicrobiae","Healthy",2.93351697117829,0.0286385112727044,0.0286385112727044
+"marker86","k__Bacteria|p__Tenericutes|c__Erysipelotrichi|o__Erysipelotrichi_Erysipelotrichales|f__Erysipelotrichi_Erysipelotrichales_Erysipelotrichaceae|g__Erysipelotrichi_Erysipelotrichales_Erysipelotrichaceae_g__|s__Eubacterium cylindroides","Healthy",2.92134812201018,0.0062525242029193,0.0062525242029193
+"marker87","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiales Family XIII. Incertae Sedis|g__Clostridiales Family XIII. Incertae Sedis_g__","Healthy",2.86583288208441,0.0287809537366089,0.0287809537366089
+"marker88","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiales Family XIII. Incertae Sedis|g__Clostridiales Family XIII. Incertae Sedis_g__|s__Clostridiales Family XIII. Incertae Sedis_g___s__","Healthy",2.86583288208441,0.0287809537366089,0.0287809537366089
+"marker89","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae_Clostridium|s__Ruminococcaceae_Clostridium_s__","Healthy",2.82530267656714,0.00176474331616522,0.00176474331616522
+"marker90","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia producta","Healthy",2.79963989886116,0.000579325363126598,0.000579325363126598
+"marker91","k__Bacteria|p__Proteobacteria|c__Deltaproteobacteria|o__Desulfovibrionales","Healthy",2.61804122279512,0.0169740422443364,0.0169740422443364
+"marker92","k__Bacteria|p__Proteobacteria|c__Deltaproteobacteria|o__Desulfovibrionales|f__Desulfovibrionaceae","Healthy",2.61804122279512,0.0169740422443364,0.0169740422443364
+"marker93","k__Bacteria|p__Proteobacteria|c__Deltaproteobacteria","Healthy",2.6167974653818,0.0181039100641561,0.0181039100641561
+"marker94","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Rikenellaceae|g__Rikenellaceae_g__|s__Rikenellaceae_g___s__","Healthy",2.52470475016911,0.00332102240026278,0.00332102240026278
+"marker95","k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Rikenellaceae|g__Rikenellaceae_g__","Healthy",2.52135819582892,0.00332102240026278,0.00332102240026278
+"marker96","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae_Clostridium|s__Clostridium orbiscindens","Healthy",2.41793480231685,0.00154030694479204,0.00154030694479204
+"marker97","k__Bacteria|p__Tenericutes|c__ML615J-28|o__ML615J-28_o__|f__ML615J-28_o___f__|g__ML615J-28_o___f___g__|s__ML615J-28_o___f___g___s__","Healthy",2.37409497761202,0.0362000078413472,0.0362000078413472
+"marker98","k__Bacteria|p__Tenericutes|c__ML615J-28|o__ML615J-28_o__|f__ML615J-28_o___f__|g__ML615J-28_o___f___g__","Healthy",2.37150965074498,0.0362000078413472,0.0362000078413472
+"marker99","k__Bacteria|p__Tenericutes|c__ML615J-28","Healthy",2.3693242388851,0.0362000078413472,0.0362000078413472
+"marker100","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Coriobacteriales|f__Coriobacteriaceae|g__Eggerthella|s__Eggerthella lenta","Healthy",2.36282074127325,0.00218429602488924,0.00218429602488924
+"marker101","k__Bacteria|p__Tenericutes|c__ML615J-28|o__ML615J-28_o__|f__ML615J-28_o___f__","Healthy",2.36167879666517,0.0362000078413472,0.0362000078413472
+"marker102","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Coriobacteriales|f__Coriobacteriaceae|g__Eggerthella","Healthy",2.36065400674421,0.00218429602488924,0.00218429602488924
+"marker103","k__Bacteria|p__Tenericutes|c__ML615J-28|o__ML615J-28_o__","Healthy",2.35782286492657,0.0362000078413472,0.0362000078413472
+"marker104","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium longum","Healthy",2.319761840506,0.0265712904380644,0.0265712904380644
+"marker105","k__Bacteria|p__Proteobacteria|c__Deltaproteobacteria|o__Desulfovibrionales|f__Desulfovibrionaceae|g__Bilophila","Healthy",2.24181115379685,0.0066365395338333,0.0066365395338333
+"marker106","k__Bacteria|p__Proteobacteria|c__Deltaproteobacteria|o__Desulfovibrionales|f__Desulfovibrionaceae|g__Bilophila|s__Bilophila wadsworthia","Healthy",2.2367011971546,0.0066365395338333,0.0066365395338333
+"marker107","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Coriobacteriales|f__Coriobacteriaceae|g__Slackia","Healthy",2.12791411296681,0.00312451982004172,0.00312451982004172
+"marker108","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Epulopiscium","Healthy",2.11969911681185,0.0128950289584259,0.0128950289584259
+"marker109","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Epulopiscium|s__Epulopiscium_s__","Healthy",2.11434889361684,0.0128950289584259,0.0128950289584259
+"marker110","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Peptococcaceae|g__Peptococcaceae_g__|s__Peptococcaceae_g___s__","Healthy",2.06238884469928,0.0190126313030863,0.0190126313030863
+"marker111","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Peptococcaceae|g__Peptococcaceae_g__","Healthy",2.05997428535927,0.0190126313030863,0.0190126313030863
+"marker112","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Coriobacteriales|f__Coriobacteriaceae|g__Slackia|s__Slackia_s__","Healthy",2.0382445029923,0.0131266122916044,0.0131266122916044
+"marker113","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium|s__Faecalibacterium prausnitzii","Healthy",2.01657467319356,8.97299752809333e-05,8.97299752809333e-05
+"marker114","k__Bacteria|p__Tenericutes|c__Erysipelotrichi|o__Erysipelotrichi_Erysipelotrichales|f__Erysipelotrichi_Erysipelotrichales_Erysipelotrichaceae|g__Erysipelotrichi_Erysipelotrichales_Erysipelotrichaceae_g__|s__MLG480","Healthy",1.98154532795432,0.00646828635763921,0.00646828635763921
+"marker115","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Anaerotruncus","Healthy",1.96186140853474,0.0291395650389937,0.0291395650389937
+"marker116","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Coriobacteriales|f__Coriobacteriales_f__|g__Coriobacteriales_f___g__|s__Coriobacteriales_f___g___s__","Healthy",1.95885998153774,0.0108506092401291,0.0108506092401291
+"marker117","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Coriobacteriales|f__Coriobacteriales_f__","Healthy",1.95505305780243,0.0108506092401291,0.0108506092401291
+"marker118","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Coriobacteriales|f__Coriobacteriales_f__|g__Coriobacteriales_f___g__","Healthy",1.95239935116159,0.0108506092401291,0.0108506092401291
+"marker119","k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Enterobacter","Healthy",1.9446172298317,0.0272649863345549,0.0272649863345549
+"marker120","k__Bacteria|p__Tenericutes|c__Erysipelotrichi|o__Erysipelotrichi_Erysipelotrichales|f__Erysipelotrichi_Erysipelotrichales_Erysipelotrichaceae|g__Holdemania|s__Holdemania_s__","Healthy",1.93629367545493,0.00512409374492459,0.00512409374492459
+"marker121","k__Bacteria|p__Tenericutes|c__Erysipelotrichi|o__Erysipelotrichi_Erysipelotrichales|f__Erysipelotrichi_Erysipelotrichales_Erysipelotrichaceae|g__Holdemania","Healthy",1.93428254434315,0.00512409374492459,0.00512409374492459
+"marker122","k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Enterobacter|s__Enterobacter hormaechei","Healthy",1.87791698528263,0.0318915358446231,0.0318915358446231
+"marker123","k__Bacteria|p__Actinobacteria|c__Actinobacteria (class)|o__Coriobacteriales|f__Coriobacteriaceae|g__Slackia|s__Slackia exigua","Healthy",1.67206113825872,0.0419432604810856,0.0419432604810856
+"marker124","k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingobium","Healthy",1.56798613586803,0.0498902117347505,0.0498902117347505
+"marker125","k__Bacteria|p__Fusobacteria","Tumor",5.08410837030114,1.05419774140422e-05,1.05419774140422e-05
+"marker126","k__Bacteria|p__Fusobacteria|c__Fusobacteria (class)","Tumor",5.08410837030114,1.05419774140422e-05,1.05419774140422e-05
+"marker127","k__Bacteria|p__Fusobacteria|c__Fusobacteria (class)|o__Fusobacteriales","Tumor",5.08410837030114,1.05419774140422e-05,1.05419774140422e-05
+"marker128","k__Bacteria|p__Fusobacteria|c__Fusobacteria (class)|o__Fusobacteriales|f__Fusobacteriaceae","Tumor",5.08410837030114,1.05419774140422e-05,1.05419774140422e-05
+"marker129","k__Bacteria|p__Fusobacteria|c__Fusobacteria (class)|o__Fusobacteriales|f__Fusobacteriaceae|g__Fusobacterium","Tumor",5.01911936541545,2.66581803772201e-05,2.66581803772201e-05
+"marker130","k__Bacteria|p__Fusobacteria|c__Fusobacteria (class)|o__Fusobacteriales|f__Fusobacteriaceae|g__Fusobacterium|s__Fusobacterium_s__","Tumor",4.87741194600686,4.07085628415897e-05,4.07085628415897e-05
+"marker131","k__Bacteria|p__Fusobacteria|c__Fusobacteria (class)|o__Fusobacteriales|f__Fusobacteriaceae|g__Fusobacterium|s__Fusobacterium necrophorum","Tumor",4.46446271183171,0.00875020725432058,0.00875020725432058
+"marker132","k__Bacteria|p__Fusobacteria|c__Fusobacteria (class)|o__Fusobacteriales|f__Fusobacteriaceae|g__Leptotrichia","Tumor",4.22057341168103,0.0220136339147023,0.0220136339147023
+"marker133","k__Bacteria|p__Firmicutes|c__Bacilli","Tumor",4.11522555076054,0.0372977734037681,0.0372977734037681
+"marker134","k__Bacteria|p__Fusobacteria|c__Fusobacteria (class)|o__Fusobacteriales|f__Fusobacteriaceae|g__Leptotrichia|s__Leptotrichia trevisanii","Tumor",4.09513392224033,0.0347378737090483,0.0347378737090483
+"marker135","k__Bacteria","Tumor",3.89446951344619,0.0498902117347505,0.0498902117347505
+"marker136","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Veillonellaceae|g__Selenomonas","Tumor",3.62791736129879,0.0485298231592428,0.0485298231592428
+"marker137","k__Bacteria|p__Proteobacteria|c__Epsilonproteobacteria|o__Campylobacterales|f__Campylobacteraceae","Tumor",3.58889287175245,0.000716587051563724,0.000716587051563724
+"marker138","k__Bacteria|p__Proteobacteria|c__Epsilonproteobacteria","Tumor",3.5887060330093,0.000716587051563724,0.000716587051563724
+"marker139","k__Bacteria|p__Proteobacteria|c__Epsilonproteobacteria|o__Campylobacterales","Tumor",3.58849394809972,0.000716587051563724,0.000716587051563724
+"marker140","k__Bacteria|p__Proteobacteria|c__Epsilonproteobacteria|o__Campylobacterales|f__Campylobacteraceae|g__Campylobacter","Tumor",3.58793185387844,0.00127855203950544,0.00127855203950544
+"marker141","k__Bacteria|p__Proteobacteria|c__Epsilonproteobacteria|o__Campylobacterales|f__Campylobacteraceae|g__Campylobacter|s__Bacteroides ureolyticus","Tumor",2.98677850222607,0.0447715183564748,0.0447715183564748
+"marker142","k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Salmonella|s__Salmonella bongori","Tumor",2.75418294904353,0.030995270305571,0.030995270305571
+"marker143","k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Salmonella","Tumor",2.74781739392455,0.030995270305571,0.030995270305571
+"marker144","k__Bacteria|p__Proteobacteria|c__Epsilonproteobacteria|o__Campylobacterales|f__Campylobacteraceae|g__Campylobacter|s__Campylobacter rectus","Tumor",2.70332016780047,0.00135406103977602,0.00135406103977602
+"marker145","k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Burkholderiales_f__","Tumor",2.5403578819462,0.0115786039464714,0.0115786039464714
+"marker146","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Peptococcaceae|g__Peptococcus","Tumor",2.46401245588359,0.0376011146927354,0.0376011146927354
+"marker147","k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Peptococcaceae|g__Peptococcus|s__Peptococcus_s__","Tumor",2.46298587384214,0.0376011146927354,0.0376011146927354
+"marker148","k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Burkholderiales_f__|g__Paucibacter|s__Paucibacter toxinivorans","Tumor",2.4305458942602,0.0463523144354711,0.0463523144354711
+"marker149","k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Burkholderiales_f__|g__Paucibacter","Tumor",2.42934219446751,0.0463523144354711,0.0463523144354711
+"marker150","k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Rhizobiales|f__Methylobacteriaceae","Tumor",2.42631129013827,0.0213782382418101,0.0213782382418101
+"marker151","k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Rhizobiales|f__Methylobacteriaceae|g__Methylobacterium","Tumor",2.42343698307268,0.0213782382418101,0.0213782382418101
+"marker152","k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Rhizobiales|f__Methylobacteriaceae|g__Methylobacterium|s__Methylobacterium_s__","Tumor",2.35819041339387,0.00203844033466736,0.00203844033466736
+"marker153","k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales|f__Pasteurellaceae|g__Haemophilus|s__Haemophilus_s__","Tumor",2.19347328809617,0.025722681355291,0.025722681355291
+"marker154","k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales|f__Pasteurellaceae|g__Actinobacillus|s__Actinobacillus porcinus","Tumor",2.07436756863126,0.0204410159580573,0.0204410159580573
+"marker155","k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Tetragenococcus","Tumor",1.96704668077113,0.0157559970144916,0.0157559970144916
+"marker156","k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Tetragenococcus|s__Tetragenococcus_s__","Tumor",1.88733286391495,0.0117740774268645,0.0117740774268645
+"marker157","k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus phocae","Tumor",1.65190341682352,0.00758429086905801,0.00758429086905801
+"marker158","k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus pseudopneumoniae","Tumor",1.53674815728504,0.0199951832036525,0.0199951832036525
